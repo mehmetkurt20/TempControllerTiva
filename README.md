@@ -28,6 +28,8 @@ Components
 • DC Supply
 • 2 x BD237 Power Transistor
 • 2 x 100 Ω resistor
+## Sample Photo
+![image](https://github.com/mehmetkurt20/TempControllerTiva/assets/64316648/d9cfb639-ffa2-4b6f-bcbd-d18285e9a727)
 
 ### System Overview
 ![image](https://github.com/mehmetkurt20/TempControllerTiva/assets/64316648/2e2ef585-2fc4-459f-89ff-14b476404458)
