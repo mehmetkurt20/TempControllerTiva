@@ -1,3 +1,7 @@
+## Temperature Controller With TM4C123G microcontroller
+
+
+
 This report and codes encapsulates the development and implementation of a temperature control
 system leveraging the TM4C123G microcontroller. The project's core aim involves integrating
 diverse hardware components, including the BMP280 sensor, Nokia 5110 LCD, resistive heating
@@ -16,3 +20,11 @@ development, highlighting the strategies employed to fulfill project requisites 
 constraints. Furthermore, it explores the use of Serial Peripheral Interface (SPI) and I2C for
 efficient device communication, underscoring the proficiency in microcontroller-based system
 implementation
+Components
+• Nokia 5110 LCD Screen
+• BMP280 Temperature Sensor
+• TM4C123G Board
+• Potentiometer
+• DC Supply
+• 2 x BD237 Power Transistor
+• 2 x 100 Ω resistor
