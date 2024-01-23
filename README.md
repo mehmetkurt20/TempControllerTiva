@@ -1,4 +1,4 @@
-## Temperature Controller With TM4C123G microcontroller
+## Temperature Controller w/ TM4C123G Microcontroller
 
 
 
@@ -28,3 +28,8 @@ Components
 • DC Supply
 • 2 x BD237 Power Transistor
 • 2 x 100 Ω resistor
+
+### System Overview
+![image](https://github.com/mehmetkurt20/TempControllerTiva/assets/64316648/2e2ef585-2fc4-459f-89ff-14b476404458)
+
+
